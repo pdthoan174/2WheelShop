@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Admin
+Build-Jdk: Amazon Corretto version 1.8.0_332
+Implementation-Title: MartfuryShop
+Implementation-Version: 1.0
+Implementation-Vendor-Id: vn
+Main-Class: ${start-class}
+
